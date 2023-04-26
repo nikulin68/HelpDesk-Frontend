@@ -1,5 +1,7 @@
 HelpDesk: Frontend
 
+![CI](https://github.com/nikulin68/HelpDesk-Frontend/actions/workflows/web.yml/badge.svg)
+
 Легенда
 
 Часть API вами написано, пора приступить к своим прямым обязанностям - написанию фронтенда, который будет с этим API работать.
