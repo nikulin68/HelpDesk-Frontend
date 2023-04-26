@@ -45,3 +45,4 @@ HelpDesk: Frontend
 Заметка
 P.S. Подгрузка подробного описания специально организована в виде отдельного запроса, мы прекрасно понимаем, что на малых объёмах информации нет смысла делать её отдельно.
 
+[![Build status](https://ci.appveyor.com/api/projects/status/c1gw2fwdjl0k7fv6/branch/main?svg=true)](https://ci.appveyor.com/project/nikulin68/helpdesk-frontend/branch/main)
