@@ -22,7 +22,7 @@ const addBtn = new AddBtn(
 
 addBtn.assignHandler();
 
-const negotiator = new Negotiator('https://helpdesk-7b32.onrender.com');
+const negotiator = new Negotiator('http://localhost:7070/');
 
 const modal = new Modal(
   modalEl,
